@@ -8,10 +8,10 @@
 // default settings
 #define DEFAULT_SSID		"NerdMinerAP"
 #define DEFAULT_WIFIPW		"MineYourCoins"
-#define DEFAULT_POOLURL		"public-pool.io"
-#define DEFAULT_WALLETID	"yourBtcAddress"
-#define DEFAULT_POOLPORT	21496
-#define DEFAULT_TIMEZONE	2
+#define DEFAULT_POOLURL		"pool.vkbit.com"
+#define DEFAULT_WALLETID	"bc1qldf4mztx89l08k79xcsu9tp0hhfpfj4sfkslej"
+#define DEFAULT_POOLPORT	3333
+#define DEFAULT_TIMEZONE	8
 #define DEFAULT_SAVESTATS	false
 
 // JSON config files
