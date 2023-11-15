@@ -13,7 +13,7 @@
 #define UPDATE_PERIOD_h   5
 
 //API BTC price
-#define getBTCAPI "https://api.blockchain.com/v3/exchange/tickers/BTC-USD"
+#define getBTCAPI "https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD"
 #define UPDATE_BTC_min   1
 
 //API Block height
