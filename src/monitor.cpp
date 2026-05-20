@@ -178,7 +178,7 @@ String getBTCprice(void){
             StaticJsonDocument<1024> doc;
             deserializeJson(doc, payload);
           
-            if (doc.containsKey("pirce")) {
+            if (doc.containsKey("price")) {
                 bitcoin_price = doc["price"];
             }
 
